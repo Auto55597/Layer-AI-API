@@ -1,0 +1,15 @@
+venv/
+.env
+*.db
+*.sqlite
+__pycache__/
+*.pyc
+logs/
+*.log
+.idea/
+.vscode/
+.DS_Store
+.venv/
+ai_state.txt
+SUBSCRIPTION_GUIDE.md
+GETTING_STARTED.md
