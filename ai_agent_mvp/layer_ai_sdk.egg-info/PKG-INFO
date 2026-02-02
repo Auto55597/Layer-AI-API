@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: layer-ai-sdk
+Version: 0.1.0
+Summary: AI Agent Permission SDK
+Requires-Python: >=3.9
+Requires-Dist: requests
